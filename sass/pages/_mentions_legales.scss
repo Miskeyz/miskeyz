@@ -1,0 +1,42 @@
+.mentions
+{
+	background-color: $bg-color;
+	padding: 5px 50px 50px 50px;
+	width: $page-size/2;
+	margin: auto;
+	border: 5px solid $color-white;
+	color: $color-white;
+	margin-bottom: 50px;
+	box-shadow: inset 0px 0px 25px 0px rgba(255,255,255,0.5);
+
+	@include mobile-only
+	{
+		width: 60%;
+	}
+
+	&__heading
+	{
+		font-size: 2em;
+		margin-bottom: 0;
+		font-family: $secondary-typo;
+
+		@include mobile-only
+		{
+			margin-bottom: 10px;
+			font-size: 1.3em;
+		}
+	}
+
+	&__txt
+	{
+		line-height: 20px;
+		margin: 0;
+		width: 100%;
+		font-family: $secondary-typo;
+
+		@include mobile-only
+		{
+			font-size: 0.8em;
+		}
+	}
+}

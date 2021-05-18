@@ -1,0 +1,86 @@
+.formulaire
+{
+	width: 800px;
+	margin: auto;
+	background-color: $bloc-box-color;
+	padding: 35px 55px 10px 50px;
+	border: 5px solid $color-white;
+	margin-bottom: 100px;
+	margin-top: 100px;
+	border-radius: 10px;
+
+	@include tablette-only
+	{
+		width: 80%;		
+	}
+
+	@include mobile-only
+	{
+		width: 60%;
+		margin-top: 20px;
+	}
+
+	&__label
+	{
+		color: $color-white;
+		font-family: $primary-typo;
+		font-size: 1.1em;
+		text-transform: uppercase;
+
+		@include mobile-only
+		{
+			font-size: 0.9em;
+		}
+	}
+
+	&__input
+	{
+		margin-bottom: 20px;
+		margin-top: -20px;
+		height: 30px;
+		width: 320px;
+		border-radius: 5px;
+		border: 2px solid $bg-color;
+		font-size: 1.2em;
+		font-family: $secondary-typo;
+
+		@include mobile-only
+		{
+			width: 80%;
+			font-size: 0.8em;
+		}
+
+		&--submit
+		{
+			width: 7em;
+		}
+	}
+
+	&__textarea
+	{
+		width: 100%;
+		height: 200px;
+		margin-top: -10px;
+		margin-bottom: 20px;
+		border-radius: 5px;
+		border: 2px solid $bg-color;
+		font-size: 1.2em;
+		font-family: $secondary-typo;
+
+		@include mobile-only
+		{
+			width: 100%;
+			font-size: 0.8em;
+		}
+	}
+
+}
+
+.form-message
+{
+	color: $color-white;
+	font-size: 2em;
+	text-align: center;
+	margin-bottom: 50px;
+	font-family: $secondary-typo;
+}

@@ -1,0 +1,37 @@
+$page-size: 1200px;
+
+$color-white: #fff;
+$color-grey: #606875;
+$primary-color: #2a4461;
+$bg-color: #06121e;
+$bloc-box-color: #2a4461;
+
+$linear-gradient: linear-gradient(180deg, $bg-color 0%, $primary-color 100%);
+
+$primary-typo: 'sansation', sans-serif;
+$secondary-typo: 'Francois One', sans-serif;
+$tertiary-typo: 'Bellerose', sans-serif;
+
+$link-font: 1.2em;
+$h1-font: 19em;
+$h1-font-desktop: 15em;
+$h1-font-tablette: 8em;
+$h2-font: 2em;
+$h2-font-tablette: 2em;
+
+$radius: 10px;
+
+$social-circle-size: 50px;
+$carrousel-btn-size: 80px;
+$carrousel-btn-tablette: 50px;
+
+$breakpoints:
+(
+	mobile: 599px,
+	tablette: 1100px,
+	desktop: 1800px,
+	desktop-xs: 1330px
+);
+
+$loader-time: 3s;
+$loader-logo-delay: 200ms;
