@@ -1,0 +1,142 @@
+.partenaires
+{
+	width: $page-size;
+	margin: auto;
+
+	@include desktop-xs-only
+	{
+		width: auto;
+	}
+
+	&__heading
+	{
+		text-align: center;
+
+		@include tablette-only
+		{
+			font-size: 2.2em;
+		}
+	}
+
+	&__grid
+	{
+		display: flex;
+		flex-wrap: wrap;
+	}
+}
+
+.partenaires-card
+{
+	display: block;
+	width: 100%;
+	display: flex;
+	margin-bottom: 50px;
+	background-color: $bg-color;
+	text-decoration: none;
+	color: $color-white;
+	font-family: $secondary-typo;
+	border: 5px solid $color-white;
+	position: relative;
+	border-radius: 10px;
+
+	@include desktop-xs-only
+	{
+		width: 80%;
+		margin: auto;
+		margin-bottom: 50px;
+	}
+
+	@include tablette-only
+	{
+		flex-direction: column;
+		width: 300px;
+		height: 670px;
+	}
+
+	&::after
+	{
+		@include pseudo-pos;
+		background-color: $color-white;
+		opacity: 0;
+		transition: opacity 300ms;
+	}
+
+	&:hover::after, &:focus::after
+	{
+		opacity: 0.2;
+	}
+
+	&__content
+	{
+		padding-left: 40px;
+		padding-right: 100px;
+		box-shadow: inset 0px 0px 25px 0px rgba(255,255,255,0.5);
+		width: 100%;
+
+		@include tablette-only
+		{
+			padding-right: 20px;
+			padding-left: 20px;
+			height: 100%;
+			width: 86%;
+			border: 1px solid $color-white;
+		}
+	}
+
+	&__heading
+	{
+		font-size: 2em;
+		margin-bottom: 0;
+
+		@include tablette-only
+		{
+			font-size: 1.5em;
+		}
+	}
+
+	&__role
+	{
+		margin-top: 0;
+		font-size: 1.3em;
+		margin-bottom: 20px;
+
+		@include tablette-only
+		{
+			font-size: 1em;
+		}
+	}
+
+	&__description
+	{
+		font-size: 0.85em;
+		font-family: $primary-typo;
+		line-height: 20px;
+
+		@include desktop-xs-only
+		{
+			font-size: 0.7em;
+			line-height: 16px;
+		}
+
+		@include tablette-only
+		{
+			text-align: justify;
+		}
+	}
+
+	&__contact
+	{
+		position: absolute;
+		bottom: 20px;
+		line-height: 10px;
+		font-family: $primary-typo;
+		font-size: 0.9em;
+
+		@include tablette-only
+		{
+			line-height: 15px;
+			font-size: 0.8em;
+		}
+	}
+
+}

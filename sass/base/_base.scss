@@ -1,0 +1,66 @@
+
+body
+{
+	background: url(../images/fond_page.png) repeat $bg-color 0% 60%;
+	width: auto;
+}
+
+#page-size
+{
+	width: $page-size;
+	margin: auto;
+	padding-top: 50px;
+
+	@include desktop-xs-only
+	{
+		width: 80%;
+	}
+
+	@include mobile-only
+	{
+		width: 90%;
+	}
+}
+
+h1
+{
+	font-family: $secondary-typo;
+	color: $color-white;
+	font-size: $h1-font;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 0.1em;
+
+	@include desktop-xs-only
+	{
+		font-size: $h1-font-desktop;
+	}
+
+	@include tablette-only
+	{
+		font-size: $h1-font-tablette;
+	}
+
+	@include mobile-only
+	{
+		display: none;
+	}
+}
+
+h2
+{
+	font-family: $secondary-typo;
+	font-size: 3.5em;
+	color: $color-white;
+
+	@include tablette-only
+	{
+		font-size: $h2-font-tablette;
+	}
+}
+
+h3
+{
+	font-family: $primary-typo;
+}
+

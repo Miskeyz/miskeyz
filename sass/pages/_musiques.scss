@@ -1,0 +1,89 @@
+.musiques
+{
+	width: $page-size;
+	margin: auto;
+
+	&__heading
+	{
+		visibility: hidden;
+		position: absolute;
+		top: -1000px;
+	}
+
+	@include desktop-xs-only
+	{
+		width: auto;
+	}
+}
+
+.musiques-grid
+{
+	margin-bottom: 50px;
+
+	@include desktop-xs-only
+	{
+		width: 90%;
+		margin: auto;
+	}
+
+	&__2columns
+	{
+		display: flex;
+		grid-gap: 20px;
+		margin-bottom: 20px;
+		width: 100%;
+
+		@include tablette-only
+		{
+			flex-direction: column;
+			grid-gap: 40px;
+			margin-bottom: 40px;	
+		}
+	}
+
+	&__4columns
+	{
+		display: flex;
+		grid-gap: 20px;
+		margin-bottom: 20px;
+
+		@include desktop-xs-only
+		{
+			flex-wrap: wrap
+		}
+
+		@include tablette-only
+		{
+			grid-gap: 40px;
+			margin-bottom: 40px;	
+		}
+	}
+
+	&__iframe
+	{
+		&--album
+		{
+			height: 630px;
+			width: 100%;
+			flex: 1;
+			border: 0;
+		}
+
+		&--ep
+		{
+			height: 400px;
+			width: 100%;
+			flex: 1;
+			border: 0;
+		}
+
+		&--single
+		{
+			height: 300px;
+			width: 250px;
+			flex: 1;
+			border: 0;
+			border-radius: 5px;
+		}
+	}
+}

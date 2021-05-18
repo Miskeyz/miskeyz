@@ -1,0 +1,1762 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"padding",
+				"padding\tproperty"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mentions",
+				"mentions__txt"
+			],
+			[
+				"men",
+				"mentions__heading"
+			],
+			[
+				"mentio",
+				"mentions__heading"
+			],
+			[
+				"menti",
+				"mentions__heading"
+			],
+			[
+				"mention",
+				"mentions__txt"
+			],
+			[
+				"cred",
+				"credits__link"
+			],
+			[
+				"animatio",
+				"animation\tproperty"
+			],
+			[
+				"scl",
+				"scale()\ttransform"
+			],
+			[
+				"loader",
+				"loader-time"
+			],
+			[
+				"anima",
+				"animation-timing-function\tproperty"
+			],
+			[
+				"clip",
+				"clip-path\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"border-right",
+				"border-right-color\tproperty"
+			],
+			[
+				"tr",
+				"translateY()\ttransform"
+			],
+			[
+				"tran",
+				"transform-origin\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"tab",
+				"table-cell\tdisplay"
+			],
+			[
+				"fonctio",
+				"fonctionnement-carte__icon"
+			],
+			[
+				"rest",
+				"restaurant-carte__icon"
+			],
+			[
+				"white",
+				"white-color"
+			],
+			[
+				"heart",
+				"heart-bg1"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"inl",
+				"inline\tdisplay"
+			],
+			[
+				"sc",
+				"scale()\ttransform"
+			],
+			[
+				"compteur",
+				"compteur-time"
+			],
+			[
+				"counter",
+				"counter-increment\tproperty"
+			],
+			[
+				"trasfo",
+				"transform\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"animat",
+				"animation\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"obje",
+				"object-position\tproperty"
+			],
+			[
+				"grid",
+				"grid-gap\tproperty"
+			],
+			[
+				"desktop",
+				"desktop-size"
+			],
+			[
+				"object",
+				"object-position\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"overflo",
+				"overflow\tproperty"
+			],
+			[
+				"for",
+				"forwards"
+			],
+			[
+				"chasing",
+				"chasing-time"
+			],
+			[
+				"animation-d",
+				"animation-delay\tproperty"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"text-o",
+				"text-overflow\tproperty"
+			],
+			[
+				"flex",
+				"flex\tproperty"
+			],
+			[
+				"pre",
+				"pre-wrap\twhite-space"
+			],
+			[
+				"pr",
+				"pre-line\twhite-space"
+			],
+			[
+				"no",
+				"nowrap\twhite-space"
+			],
+			[
+				"sele",
+				"select-btn"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"paddin",
+				"padding-right\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"menu",
+				"menu-carte"
+			],
+			[
+				"hear",
+				"heart-bg"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"header",
+				"header__icon"
+			],
+			[
+				"con",
+				"restaurant-carte-container"
+			],
+			[
+				"res",
+				"restaurant-carte"
+			],
+			[
+				"deskt",
+				"desktop-size"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"r",
+				"restaurants"
+			],
+			[
+				"log",
+				"logo-typo"
+			],
+			[
+				"f",
+				"footer__link"
+			],
+			[
+				"footer",
+				"footer__puces"
+			],
+			[
+				"transo",
+				"transition\tproperty"
+			],
+			[
+				"restaurant",
+				"restaurant-carte"
+			],
+			[
+				"scla",
+				"scaleY()\ttransform"
+			],
+			[
+				"scale",
+				"scaleY()\ttransform"
+			],
+			[
+				"cart",
+				"restaurant-carte__img"
+			],
+			[
+				"obj",
+				"object-position\tproperty"
+			],
+			[
+				"paddi",
+				"padding-right\tproperty"
+			],
+			[
+				"co",
+				"cover\tobject-fit"
+			],
+			[
+				"resta",
+				"restaurant-carte"
+			],
+			[
+				"box-s",
+				"box-shadow\tproperty"
+			],
+			[
+				"box-",
+				"box-shadow\tproperty"
+			],
+			[
+				"fonction",
+				"fonctionnement-carte"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"ca",
+				"carrousel-btn-tablette"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"bloc",
+				"bloc-box-color"
+			],
+			[
+				"gridtem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"backgrou",
+				"background-attachment\tproperty"
+			],
+			[
+				"hea",
+				"header__btn"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"last",
+				"last-videos__blocpetit"
+			],
+			[
+				"carr",
+				"carrousel-btn-tablette"
+			],
+			[
+				"border",
+				"border-top-color\tproperty"
+			],
+			[
+				"grid-co",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"space-",
+				"space-between\tjustify-content"
+			],
+			[
+				"column",
+				"column-reverse\tflex-direction"
+			],
+			[
+				"c",
+				"column-reverse\tflex-direction"
+			],
+			[
+				"flex-",
+				"flex-wrap\tproperty"
+			],
+			[
+				"vide",
+				"videos__link"
+			],
+			[
+				"form",
+				"formulaire__input"
+			],
+			[
+				"fo",
+				"formulaire__input"
+			],
+			[
+				"musiques",
+				"musiques-grid-4columns"
+			],
+			[
+				"musiqu",
+				"musiques-grid-row1"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"carro",
+				"carrousel-btn-size"
+			],
+			[
+				"social",
+				"social-circle-size"
+			],
+			[
+				"border-bott",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"carrous",
+				"carrousel__btn"
+			],
+			[
+				"carrousel",
+				"carrousel__btn--prev"
+			],
+			[
+				"carous",
+				"caroussel"
+			],
+			[
+				"carouss",
+				"caroussel__list"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"color",
+				"color-white"
+			],
+			[
+				"disco",
+				"disco-card__txt"
+			],
+			[
+				"diso",
+				"disco-card"
+			],
+			[
+				"whi",
+				"color-white"
+			],
+			[
+				"las",
+				"last-videos__txt"
+			],
+			[
+				"s",
+				"scale()\ttransform"
+			],
+			[
+				"ta",
+				"table-cell\tdisplay"
+			],
+			[
+				"head",
+				"header__link"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 7693,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "home.html",
+			"settings":
+			{
+				"buffer_size": 7645,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "loader.php",
+			"settings":
+			{
+				"buffer_size": 315,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contact.php",
+			"settings":
+			{
+				"buffer_size": 6139,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "musiques.html",
+			"settings":
+			{
+				"buffer_size": 7546,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "photos.html",
+			"settings":
+			{
+				"buffer_size": 6123,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "videos.html",
+			"settings":
+			{
+				"buffer_size": 5959,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mentions_legales.html",
+			"settings":
+			{
+				"buffer_size": 4648,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/main.scss",
+			"settings":
+			{
+				"buffer_size": 363,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/base/_base.scss",
+			"settings":
+			{
+				"buffer_size": 761,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/components/_loader.scss",
+			"settings":
+			{
+				"buffer_size": 1327,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/components/_button.scss",
+			"settings":
+			{
+				"buffer_size": 1822,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/layout/_content.scss",
+			"settings":
+			{
+				"buffer_size": 3789,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/layout/_footer.scss",
+			"settings":
+			{
+				"buffer_size": 1858,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/layout/_header.scss",
+			"settings":
+			{
+				"buffer_size": 4013,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/pages/_musiques.scss",
+			"settings":
+			{
+				"buffer_size": 968,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/pages/_photos.scss",
+			"settings":
+			{
+				"buffer_size": 2390,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/pages/_videos.scss",
+			"settings":
+			{
+				"buffer_size": 1932,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/pages/_mentions_legales.scss",
+			"settings":
+			{
+				"buffer_size": 513,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/pages/_contact.scss",
+			"settings":
+			{
+				"buffer_size": 1197,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/utils/_mixins.scss",
+			"settings":
+			{
+				"buffer_size": 1737,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style_prefixed.css",
+			"settings":
+			{
+				"buffer_size": 53857,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/utils/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 703,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/base/_typography.scss",
+			"settings":
+			{
+				"buffer_size": 792,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 342.0,
+		"history":
+		[
+			"npm init"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/miskeyz_site_web/css/style.css",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/pages/_contact.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/erreur404.php",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/test/test.php",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/components/_loader.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/package.json",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/testing.php",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/test.html",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/css/style_prefixed.css",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/package.json",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/css/prefixed/style.css",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_2_17092020/package.json",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/php/mail.php",
+		"/Applications/MAMP/htdocs/Site/form.php",
+		"/Applications/MAMP/htdocs/PHP/tp_blog/Blog_voyage/inscription.php",
+		"/Applications/MAMP/htdocs/Site/contact.php",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/base/_base.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/index.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/utils/_variables.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/utils/_mixins.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/layout/_search.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/layout/_restaurants.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/layout/_header.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/layout/_footer.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/layout/_fonctionnement.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/pages/_menu.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/components/_button.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/menu_4.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/menu_3.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/menu_2.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/menu_1.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_2_17092020/prefixed/style.css",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/base/_typographie.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_2_17092020/style.css",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_2_17092020/index.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/utils/_variables.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/utils/_mixins.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/layout/_search.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/main.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/layout/_footer.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/components/_button.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/layout/_restaurants.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/pages/_menu.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/layout/_header.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/base/_base.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/CSS/style.css",
+		"/Users/thibaultchardigny/Dropbox/Formation - OCR/Projet 3 - Dynamisez une page web avec des animations CSS/Cours/Animations CSS/main.scss",
+		"/Users/thibaultchardigny/Dropbox/Formation - OCR/Projet 3 - Dynamisez une page web avec des animations CSS/Cours/Animations CSS/index.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/layout/_fonctionnement.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/utils/_mixins.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/main.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/.git/COMMIT_EDITMSG",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/php/contact.php",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/contact.php",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/videos.html",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/photos.html",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/musiques.html",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/index.html",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/mail.php",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/pages/_photos.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/layout/_header.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/pages/_videos.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/pages/_musiques.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/contact.html",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/index.php",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/miskeyz/.git/COMMIT_EDITMSG",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/base/_base.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/utils/_variables.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/layout/_content.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/layout/_footer.scss",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/sass/pages/_contact.scss",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/jquery/caroussel.js",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/sass/utils/_variables.scss",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/sass/utils/_mixins.scss",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/sass/base/_typography.scss",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/sass/pages/_musiques.scss",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/sass/layout/_content.scss",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/sass/base/_base.scss",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/sass/main.scss",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/mail.php",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/photos.html",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/musiques.html",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/videos.html",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/index.html",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/php/mail.php",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/sass/layout/_contact.scss",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/sass/pages/_musiques.scss",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/sass/pages/_photos.scss",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/sass/pages/_videos.scss",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/sass/layout/_footer.scss",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/sass/layout/_content.scss",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/SASS/layout/_header.scss",
+		"/Users/thibaultchardigny/Downloads/bootstrap-4.5.2-dist/css/bootstrap.css",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/sass/utils/_variables.scss",
+		"/Users/thibaultchardigny/Downloads/bootstrap-4.5.2-dist/css/bootstrap.min.css",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/sass/base/_base.scss",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/package.json",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/CSS/style.css",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/style.css",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_28092020/SASS/main.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_28092020/index.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_28092020/menu_3.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_28092020/menu_2.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_28092020/menu_4.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_28092020/menu_1.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_28092020/SASS/pages/_menu.scss",
+		"/Users/thibaultchardigny/Dropbox/Formation - OCR/Projet 3 - Dynamisez une page web avec des animations CSS/Cours/Animations CSS/style.css",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_28092020/CSS/style.css",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-3-activity/scss/style.scss",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-3-activity/index.html",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-3-activity/scss/partials/_sun.scss",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-3-activity/scss/partials/_road.scss",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-3-activity/scss/partials/_hill.scss",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-3-activity/scss/partials/_car.scss",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-3-activity/scss/partials/_balloon.scss",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-3-activity/css/style.css",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/README.md",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-2-activity/index.html",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-2-activity/scss/style.scss",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-2-activity/scss/partials/_flashcard.scss",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-2-activity/package.json",
+		"/Users/thibaultchardigny/Dropbox/Formation - OCR/Projet 3 - Dynamisez une page web avec des animations CSS/Maquette-Exercice/index.html",
+		"/Users/thibaultchardigny/Dropbox/Formation - OCR/Projet 3 - Dynamisez une page web avec des animations CSS/Cours/Animations CSS/package.json",
+		"/Users/thibaultchardigny/Dropbox/Formation - OCR/Projet 3 - Dynamisez une page web avec des animations CSS/Maquette-Exercice/sass/main.scss",
+		"/Users/thibaultchardigny/Dropbox/Formation - OCR/Projet 3 - Dynamisez une page web avec des animations CSS/Maquette-Exercice/sass/base/_base.scss",
+		"/Users/thibaultchardigny/Dropbox/Formation - OCR/Projet 3 - Dynamisez une page web avec des animations CSS/Maquette-Exercice/sass/layout/_header.scss",
+		"/Users/thibaultchardigny/Dropbox/Formation - OCR/Projet 3 - Dynamisez une page web avec des animations CSS/Maquette-Exercice/sass/layout/_features.scss",
+		"/Users/thibaultchardigny/Dropbox/Formation - OCR/Projet 3 - Dynamisez une page web avec des animations CSS/Maquette-Exercice/sass/layout/_left-right.scss"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"0px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7693,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								504,
+								504
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								764,
+								764
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "loader.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								315,
+								315
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "contact.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								768,
+								768
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "musiques.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								769,
+								769
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "photos.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								767,
+								767
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "videos.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								767,
+								767
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "mentions_legales.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1871,
+								1871
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 13,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "sass/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "sass/base/_base.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "sass/components/_loader.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/components/_button.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "sass/layout/_content.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								301,
+								307
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "sass/layout/_footer.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1858,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1671,
+								1671
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 1272.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "sass/layout/_header.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4013,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1137,
+								1137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "sass/pages/_musiques.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 968,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "sass/pages/_photos.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "sass/pages/_videos.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								208
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "sass/pages/_mentions_legales.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								352,
+								352
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "sass/pages/_contact.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "sass/utils/_mixins.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1737,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								417,
+								417
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "css/style_prefixed.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 53857,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13051,
+								13051
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 8806.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "sass/utils/_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								657,
+								657
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "sass/base/_typography.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.532348632813,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Miskeyz_Website.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

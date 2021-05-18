@@ -1,0 +1,206 @@
+footer
+{
+	background-color: $bg-color;
+	padding: 100px 0 100px 0;
+	margin-left: -8px;
+	margin-right: -8px;
+
+	@include mobile-only
+	{
+		padding: 50px 0 50px 0;
+	}
+}
+
+.footer
+{
+	&__bloc-nav
+	{
+		display: flex;
+		justify-content: center;
+		width: $page-size;
+		margin: auto;
+
+		@include tablette-only
+		{
+			width: 95%;
+			margin: auto;
+		}
+
+		@include mobile-only
+		{
+			width: 95%;
+			margin: auto;
+			flex-direction: column;
+			justify-content: center;
+			text-align: center;
+		}
+	}
+
+	&__list
+	{
+		list-style-type: none;
+		padding-left: 0;	
+	}
+
+	&__puces
+	{
+		line-height: 30px;
+		text-transform: uppercase;
+	}
+}
+
+.social
+{
+	width: $page-size;
+	margin: auto;
+	text-align: center;
+	letter-spacing: 20px;
+	padding-left: 15px;
+	margin-bottom: 50px;
+
+	@include desktop-xs-only
+	{
+		width: auto;
+	}
+
+	@include mobile-only
+	{
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		grid-gap: 20px;
+		width: 60%;
+		text-align: left;
+		letter-spacing: 0;
+		padding: 0;
+	}
+
+	&__link
+	{
+		color: $color-white;
+		font-size: 2em;
+		position: relative;
+
+		&::after
+		{
+			@include pseudo-pos;
+			@include fx-border;
+			top: -8px;
+			left: -10px;
+			width: $social-circle-size;
+			height: $social-circle-size;
+		}
+
+		&:hover::after
+		{
+			@include transition-360;
+		}
+
+		&:focus::after
+		{
+			@include transition-360;
+		}
+	}
+}
+
+.fa
+{
+	&-facebook-f
+	{
+		transform: translateX(6px);
+	}
+
+	&-youtube
+	{
+		transform: translateX(-1px);
+	}
+
+	&-instagram
+	{
+		transform: translateX(3px);
+	}
+
+	&-spotify
+	{
+		transform: translateX(1px);
+	}
+
+	&-deezer
+	{
+		transform: translateX(-2px);
+	}
+
+	&-apple
+	{
+		transform: translateX(4.5px);
+	}
+
+	&-soundcloud
+	{
+		transform: translateX(-3px);
+	}
+
+	&-twitter
+	{
+		transform: translateX(2px);
+	}
+}
+
+.credits
+{
+	text-transform: uppercase;
+	font-size: 0.9em;
+	padding: 0 100px 0 100px;
+
+	@include desktop-xs-only
+	{
+		width: auto;
+	}
+
+	@include tablette-only
+	{
+		padding: 0 50px 0 50px;
+	}
+
+	@include mobile-only
+	{
+		padding: 0;
+		width: 90%;
+		margin: auto;
+	}
+
+	&__link
+	{
+		text-decoration: none;
+		color: $color-white;
+		padding: 3px;
+		font-family: $secondary-typo;
+		position: relative;
+
+		&::after
+		{
+			@include pseudo-pos;
+			background-color: $color-white;
+			clip-path: polygon(3.5% 94%, 97% 94%, 97% 100%, 3.5% 100%);
+			transform: scaleX(0);
+			transition: transform 300ms;
+		}
+
+		&:hover::after
+		{
+			transform: scaleX(1);
+		}
+
+		&:focus
+		{
+			transform: scaleX(1);
+		}
+
+		&--active::after
+		{
+			@include pseudo-pos;
+			background-color: $color-white;
+			clip-path: polygon(3.5% 94%, 97% 94%, 97% 100%, 3.5% 100%);
+			transform: scaleX(1);
+		}
+	}
+}

@@ -1,0 +1,199 @@
+.photos
+{
+	@include desktop-xs-only
+	{
+		width: auto;
+	}
+
+	&__heading
+	{
+		visibility: hidden;
+		position: absolute;
+		top: -1000px;
+	}
+}
+
+#carrousel
+{
+	position: relative;
+	height: 500px;
+	width: 1100px;
+	margin: auto;
+	margin-top: -100px;
+	margin-bottom: 300px;
+
+	@include desktop-xs-only
+	{
+		width: 800px;
+		margin-bottom: 170px;
+	}
+
+	@include tablette-only
+	{
+		width: 590px;	
+		margin-bottom: 50px;
+	}
+
+	@include mobile-only
+	{
+		width: 350px;
+		height: 350px;
+		margin-top: 0;
+	}
+}
+
+#carrousel img
+{
+	width: 1100px;
+	border-radius: 10px;
+
+	@include desktop-xs-only
+	{
+		width: 800px;
+	}
+
+	@include tablette-only
+	{
+		width: 590px;		
+		margin-left: -3px;
+	}
+
+	@include mobile-only
+	{
+		width: 350px;
+		height: 350px;
+		object-fit: cover;
+		margin-top: -120px;
+		margin-left: 0px;
+	}
+}
+
+.carrousel
+{
+	&__img
+	{
+
+		@include mobile-only
+		{
+			&--cadrage1
+			{
+				object-position: 80%;
+			}
+
+			&--cadrage2
+			{
+				object-position: 10%;
+			}
+		}
+	}
+}
+
+.carrousel
+{
+	&__list
+	{
+		position: absolute;
+		top: 50px;
+		left: 0;
+	}
+
+	&__puces
+	{
+		position: absolute;
+		top: 50px;
+		left: 0;
+		list-style-type: none;
+		color: $color-white;
+		font-size: 1.1em;
+		font-family: $secondary-typo;
+		letter-spacing: 5px;
+		text-align: center;
+	}
+
+	&__btn
+	{
+		position: absolute;
+		top: 400px;
+		left: -100px;
+		color: $color-white;
+		font-size: 5em;
+
+		@include desktop-xs-only
+		{
+			top: 300px;
+		}
+
+		@include tablette-only
+		{
+			top: 260px;	
+			left: 10px;
+			font-size: 3em;
+		}
+
+		@include mobile-only
+		{
+			left: 10px;
+			top: 140px;
+		}
+
+		&--prev::after
+		{
+			@include pseudo-pos;
+			@include fx-border;
+			left: -10px;
+			width: $carrousel-btn-size;
+			height: $carrousel-btn-size;
+
+			@include tablette-only
+			{
+				width: $carrousel-btn-tablette;
+				height: $carrousel-btn-tablette;
+				left: -5px;
+			}
+			
+		}
+
+		&:hover::after
+		{
+			@include transition-360;
+			cursor: pointer;
+		}
+
+		&--next
+		{
+			left: 1150px;
+
+			@include desktop-xs-only
+			{
+				left: 845px;
+			}
+
+			@include tablette-only
+			{
+				left: 540px;		
+			}
+
+			@include mobile-only
+			{
+				left: 310px;
+			}
+
+			&::after
+			{
+				@include pseudo-pos;
+				@include fx-border;
+				left: -20px;
+				width: $carrousel-btn-size;
+				height: $carrousel-btn-size;
+
+				@include tablette-only
+				{
+					width: $carrousel-btn-tablette;
+					height: $carrousel-btn-tablette;
+					left: -12px;
+				}
+			}
+		}
+	}
+}
+
